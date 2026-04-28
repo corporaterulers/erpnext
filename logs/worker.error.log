@@ -6538,3 +6538,1551 @@ Traceback (most recent call last):
   File "/home/hilton/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 705, in connect
     raise ConnectionError(self._error_message(e))
 redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:11000. Connection refused.
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/google/api_core/_python_version_support.py:273: FutureWarning: You are using a Python version (3.10.12) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/hilton/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(

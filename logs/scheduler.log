@@ -1,0 +1,2 @@
+2026-04-28 12:03:21,392 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_drive.google_drive.daily_backup because it was found in queue for mysite.local
+2026-04-28 12:03:21,447 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for mysite.local
