@@ -1,0 +1,227 @@
+2026-04-21 16:41:28,625 DEBUG cd frappe-bench && uv venv env --seed --python python3
+2026-04-21 16:41:34,852 LOG Getting frappe
+2026-04-21 16:41:34,852 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2026-04-21 16:41:44,130 LOG Installing frappe
+2026-04-21 16:41:44,131 DEBUG cd /home/hilton/frappe-bench && uv pip install --quiet --upgrade -e /home/hilton/frappe-bench/apps/frappe  --python /home/hilton/frappe-bench/env/bin/python
+2026-04-21 16:42:10,503 DEBUG cd /home/hilton/frappe-bench/apps/frappe && yarn install --check-files
+2026-04-21 16:42:37,107 DEBUG cd frappe-bench && bench build
+2026-04-21 16:42:37,225 INFO /home/hilton/.local/bin/bench build
+2026-04-21 16:43:04,476 LOG setting up backups
+2026-04-21 16:43:04,496 LOG backups were set up
+2026-04-21 16:43:04,496 INFO Bench frappe-bench initialized
+2026-04-21 16:43:17,953 INFO /home/hilton/.local/bin/bench new-site mysite.local --db-root-password frappe123 --admin-password admin
+2026-04-21 16:45:12,256 INFO /home/hilton/.local/bin/bench new-site mysite.local --db-root-password frappe123 --admin-password admin
+2026-04-21 16:45:23,331 INFO /home/hilton/.local/bin/bench --site mysite.local install-app frappe
+2026-04-21 16:45:24,084 INFO /home/hilton/.local/bin/bench --site mysite.local set-config developer_mode 1
+2026-04-21 16:46:11,821 INFO /home/hilton/.local/bin/bench drop-site mysite.local --db-root-password frappe123 --no-backup
+2026-04-21 16:46:40,045 INFO /home/hilton/.local/bin/bench new-site mysite.local --db-root-password frappe123 --admin-password admin
+2026-04-21 16:47:25,674 INFO /home/hilton/.local/bin/bench --site mysite.local install-app frappe
+2026-04-21 16:47:34,684 INFO /home/hilton/.local/bin/bench --site mysite.local set-config developer_mode 1
+2026-04-21 16:47:40,067 INFO /home/hilton/.local/bin/bench start
+2026-04-21 16:47:40,231 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 16:47:40,234 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 16:47:40,242 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 16:47:40,251 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 16:51:18,038 INFO /home/hilton/.local/bin/bench get-app erpnext --branch version-15
+2026-04-21 16:51:23,815 LOG Getting erpnext
+2026-04-21 16:51:23,816 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-15 --depth 1 --origin upstream
+2026-04-21 16:51:36,445 LOG Installing erpnext
+2026-04-21 16:51:36,446 DEBUG cd /home/hilton/frappe-bench && uv pip install --quiet --upgrade -e /home/hilton/frappe-bench/apps/erpnext  --python /home/hilton/frappe-bench/env/bin/python
+2026-04-21 16:51:40,494 DEBUG cd /home/hilton/frappe-bench/apps/erpnext && yarn install --check-files
+2026-04-21 16:51:41,246 DEBUG bench build --app erpnext
+2026-04-21 16:51:41,324 INFO /home/hilton/.local/bin/bench build --app erpnext
+2026-04-21 16:51:56,134 INFO /home/hilton/.local/bin/bench new-site mysite.local --install-app erpnext
+2026-04-21 16:52:10,631 INFO /home/hilton/.local/bin/bench get-app crm
+2026-04-21 16:52:16,650 LOG Getting crm
+2026-04-21 16:52:16,651 DEBUG cd ./apps && git clone https://github.com/frappe/crm.git  --depth 1 --origin upstream
+2026-04-21 16:52:25,484 LOG Installing crm
+2026-04-21 16:52:25,484 DEBUG cd /home/hilton/frappe-bench && uv pip install --quiet --upgrade -e /home/hilton/frappe-bench/apps/crm  --python /home/hilton/frappe-bench/env/bin/python
+2026-04-21 16:52:27,247 DEBUG cd /home/hilton/frappe-bench/apps/crm && yarn install --check-files
+2026-04-21 16:53:02,501 WARNING cd /home/hilton/frappe-bench/apps/crm && yarn install --check-files executed with exit code 1
+2026-04-21 16:53:02,502 WARNING /home/hilton/.local/bin/bench get-app crm executed with exit code 1
+2026-04-21 16:58:18,169 INFO /home/hilton/.local/bin/bench remove-app crm
+2026-04-21 16:58:18,317 INFO /home/hilton/.local/bin/bench --site all list-apps --format json
+2026-04-21 16:58:19,017 INFO /home/hilton/.local/bin/bench --site mysite.local list-apps
+2026-04-21 16:58:19,441 DEBUG cd /home/hilton/frappe-bench && uv pip uninstall crm --python /home/hilton/frappe-bench/env/bin/python
+2026-04-21 16:58:19,745 INFO App moved from apps/crm to archived/apps/crm-2026-04-21
+2026-04-21 16:58:20,266 INFO /home/hilton/.local/bin/bench get-app crm --branch version-15
+2026-04-21 16:58:26,010 LOG Getting crm
+2026-04-21 16:58:26,010 DEBUG cd ./apps && git clone https://github.com/frappe/crm.git --branch version-15 --depth 1 --origin upstream
+2026-04-21 16:58:32,171 WARNING cd ./apps && git clone https://github.com/frappe/crm.git --branch version-15 --depth 1 --origin upstream executed with exit code 128
+2026-04-21 16:58:32,172 WARNING /home/hilton/.local/bin/bench get-app crm --branch version-15 executed with exit code 1
+2026-04-21 16:59:41,062 INFO /home/hilton/.local/bin/bench get-app crm --branch main
+2026-04-21 16:59:46,809 LOG Getting crm
+2026-04-21 16:59:46,809 DEBUG cd ./apps && git clone https://github.com/frappe/crm.git --branch main --depth 1 --origin upstream
+2026-04-21 16:59:57,023 LOG Installing crm
+2026-04-21 16:59:57,023 DEBUG cd /home/hilton/frappe-bench && uv pip install --quiet --upgrade -e /home/hilton/frappe-bench/apps/crm  --python /home/hilton/frappe-bench/env/bin/python
+2026-04-21 16:59:58,089 DEBUG cd /home/hilton/frappe-bench/apps/crm && yarn install --check-files
+2026-04-21 17:00:34,861 DEBUG bench build --app crm
+2026-04-21 17:00:35,119 INFO /home/hilton/.local/bin/bench build --app crm
+2026-04-21 17:02:43,093 INFO /home/hilton/.local/bin/bench --site mysite.local install-app crm
+2026-04-21 17:03:07,367 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:03:07,636 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:03:07,642 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:03:07,646 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:03:07,652 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:04:04,862 INFO /home/hilton/.local/bin/bench setup redis
+2026-04-21 17:06:44,696 INFO /home/hilton/.local/bin/bench setup redis
+2026-04-21 17:15:28,922 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:15:29,546 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:15:29,557 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:15:29,566 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:15:29,607 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:16:57,641 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:16:58,101 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:16:58,105 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:16:58,112 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:16:58,113 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:17:18,945 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:17:19,457 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:17:19,461 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:17:19,461 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:17:19,462 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:19:10,683 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:19:11,064 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:19:11,086 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:19:11,086 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:19:11,094 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:19:37,609 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:19:37,977 INFO /home/hilton/.local/bin/bench serve --port 8000
+2026-04-21 17:19:37,981 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:19:37,981 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:19:37,995 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:24:03,719 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:24:04,254 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:24:04,256 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:24:04,258 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-21 17:24:04,261 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:26:22,111 INFO /home/hilton/.local/bin/bench use mysite.local
+2026-04-21 17:30:11,601 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:30:12,139 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-21 17:30:12,175 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:30:12,177 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:30:12,186 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:33:54,256 INFO /home/hilton/.local/bin/bench use mysite.local
+2026-04-21 17:38:51,619 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:38:52,023 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:38:52,039 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:38:52,040 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-21 17:38:52,043 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:42:24,448 INFO /home/hilton/.local/bin/bench --site mysite.local list-apps
+2026-04-21 17:42:32,094 INFO /home/hilton/.local/bin/bench --site mysite.local install-app erpnext
+2026-04-21 17:44:43,744 INFO /home/hilton/.local/bin/bench --site mysite.local list-apps
+2026-04-21 17:45:15,947 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:45:16,368 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-21 17:45:16,377 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:45:16,380 INFO /home/hilton/.local/bin/bench schedule
+2026-04-21 17:45:16,409 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:50:21,993 INFO /home/hilton/.local/bin/bench start
+2026-04-21 17:50:22,317 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-21 17:50:22,324 INFO /home/hilton/.local/bin/bench worker
+2026-04-21 17:50:22,329 INFO /home/hilton/.local/bin/bench watch
+2026-04-21 17:50:22,351 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 10:38:45,988 INFO /home/hilton/.local/bin/bench start
+2026-04-22 10:38:46,202 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-22 10:38:46,212 INFO /home/hilton/.local/bin/bench watch
+2026-04-22 10:38:46,214 INFO /home/hilton/.local/bin/bench worker
+2026-04-22 10:38:46,220 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 10:39:10,714 INFO /home/hilton/.local/bin/bench start
+2026-04-22 10:39:10,859 INFO /home/hilton/.local/bin/bench watch
+2026-04-22 10:39:10,866 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-22 10:39:10,871 INFO /home/hilton/.local/bin/bench worker
+2026-04-22 10:39:10,877 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 10:41:18,312 INFO /home/hilton/.local/bin/bench start
+2026-04-22 10:41:18,464 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-22 10:41:18,468 INFO /home/hilton/.local/bin/bench watch
+2026-04-22 10:41:18,474 INFO /home/hilton/.local/bin/bench worker
+2026-04-22 10:41:18,480 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 10:43:13,209 INFO /home/hilton/.local/bin/bench start
+2026-04-22 10:43:13,377 INFO /home/hilton/.local/bin/bench watch
+2026-04-22 10:43:13,377 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-22 10:43:13,388 INFO /home/hilton/.local/bin/bench worker
+2026-04-22 10:43:13,388 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 12:00:02,548 INFO /home/hilton/.local/bin/bench --verbose --site all backup
+2026-04-22 13:56:48,063 INFO /home/hilton/.local/bin/bench start
+2026-04-22 13:56:48,381 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-22 13:56:48,384 INFO /home/hilton/.local/bin/bench watch
+2026-04-22 13:56:48,387 INFO /home/hilton/.local/bin/bench worker
+2026-04-22 13:56:48,393 INFO /home/hilton/.local/bin/bench schedule
+2026-04-22 14:02:10,420 INFO /home/hilton/.local/bin/bench --site mysite.local set-admin-password admin123
+2026-04-22 14:42:54,357 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 14:43:08,830 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 14:43:18,083 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:45:12,078 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 14:45:18,002 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:46:57,262 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 14:47:02,270 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:48:23,122 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.set_value --args ['Workspace', 'Careers', 'icon', 'hr']
+2026-04-22 14:48:23,576 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.commit
+2026-04-22 14:48:24,009 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:48:29,142 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.get_value --args ['Workspace', 'Careers', 'icon']
+2026-04-22 14:52:02,304 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 14:52:13,470 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.set_value --args ['Workspace', 'Careers', 'icon', 'hr']
+2026-04-22 14:52:13,956 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.commit
+2026-04-22 14:52:14,399 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:55:16,999 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.exists --args ['DocType', 'Career Inquiry']
+2026-04-22 14:55:25,467 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.sql --args ["UPDATE  SET content = '[{\"id\":\"careers_header\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Careers</b></span>\",\"col\":12}},{\"id\":\"careers_card\",\"type\":\"card\",\"data\":{\"card_name\":\"Career Inquiries\",\"col\":4}}]' WHERE name = 'Careers'"]
+2026-04-22 14:56:06,247 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.get_doc --args ['Workspace','Careers']
+2026-04-22 14:56:17,372 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 14:56:30,849 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 14:59:07,231 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.get_meta --args ['Career Inquiry']
+2026-04-22 15:07:01,156 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 15:07:06,775 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 15:08:42,743 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 16:40:54,859 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 17:06:08,957 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-22 17:06:14,808 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 17:09:36,241 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 17:11:53,082 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 17:14:45,282 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 17:15:06,830 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 17:18:35,079 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-22 17:18:43,694 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 17:21:01,085 INFO /home/hilton/.local/bin/bench build --app erpnext
+2026-04-22 17:21:08,838 INFO /home/hilton/.local/bin/bench build --app erpnext
+2026-04-22 17:21:20,705 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-22 17:21:22,420 INFO /home/hilton/.local/bin/bench --site mysite.local clear-website-cache
+2026-04-24 09:57:27,904 INFO /home/hilton/.local/bin/bench start
+2026-04-24 09:57:28,155 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-24 09:57:28,163 INFO /home/hilton/.local/bin/bench worker
+2026-04-24 09:57:28,164 INFO /home/hilton/.local/bin/bench watch
+2026-04-24 09:57:28,168 INFO /home/hilton/.local/bin/bench schedule
+2026-04-24 11:30:52,373 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-24 11:34:18,531 INFO /home/hilton/.local/bin/bench --site mysite.local console
+2026-04-24 12:00:02,137 INFO /home/hilton/.local/bin/bench --verbose --site all backup
+2026-04-24 12:51:46,949 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 12:52:40,780 INFO /home/hilton/.local/bin/bench start
+2026-04-24 12:52:41,005 WARNING /home/hilton/.local/bin/bench start executed with exit code 1
+2026-04-24 12:52:59,474 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 12:53:08,398 INFO /home/hilton/.local/bin/bench start
+2026-04-24 12:53:08,596 WARNING /home/hilton/.local/bin/bench start executed with exit code 1
+2026-04-24 12:55:03,828 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 12:56:01,171 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 12:58:21,893 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 13:00:22,590 INFO /home/hilton/.local/bin/bench --site mysite.local serve
+2026-04-24 13:04:57,084 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.utils.install.update_workspace_for_module
+2026-04-24 13:05:04,790 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.client.set_value --args ["Workspace", "Careers", {"parent_page": "Frappe CRM", "is_hidden": 1}]
+2026-04-24 13:56:29,577 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 13:57:24,800 INFO /home/hilton/.local/bin/bench --site mysite.local serve
+2026-04-24 14:15:38,073 INFO /home/hilton/.local/bin/bench serve --port 8001
+2026-04-24 15:02:50,297 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 15:09:02,913 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 15:22:31,022 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 15:23:29,124 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 16:16:03,713 INFO /home/hilton/.local/bin/bench --site mysite.local execute frappe.db.sql --args [["SELECT name, portfolio_site, how_did_you_hear FROM `tabCareer Inquiry` LIMIT 5"]] --kwargs {"as_dict": true}
+2026-04-24 16:16:11,778 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, portfolio_site, how_did_you_hear FROM \ LIMIT 5;
+2026-04-24 16:16:19,918 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, portfolio_site, how_did_you_hear FROM `tabCareer Inquiry` LIMIT 5;
+2026-04-24 16:17:41,635 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 16:33:23,369 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, portfolio_site, how_did_you_hear FROM `tabCareer Inquiry` ORDER BY creation DESC LIMIT 10;
+2026-04-24 16:43:55,966 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, portfolio_site, how_did_you_hear FROM `tabCareer Inquiry` ORDER BY creation DESC LIMIT 5;
+2026-04-24 16:51:13,558 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 16:54:52,403 INFO /home/hilton/.local/bin/bench --site mysite.local migrate
+2026-04-24 16:56:41,217 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, role_applying_for FROM `tabCareer Inquiry` ORDER BY creation DESC LIMIT 5;
+2026-04-24 16:58:15,118 INFO /home/hilton/.local/bin/bench --site mysite.local mariadb --execute SELECT name, role_applying_for FROM `tabCareer Inquiry` ORDER BY creation DESC LIMIT 3;
+2026-04-24 18:22:16,108 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-24 18:22:17,599 INFO /home/hilton/.local/bin/bench build --app erpnext
+2026-04-24 18:22:29,624 INFO /home/hilton/.local/bin/bench --site mysite.local clear-cache
+2026-04-24 18:22:31,127 INFO /home/hilton/.local/bin/bench build --app erpnext

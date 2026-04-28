@@ -1,0 +1,166 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://172.24.189.57:8001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 128-242-458
+172.24.176.1 - - [24/Apr/2026 14:16:24] "[31m[1mGET /api/method/frappe.auth.get_logged_user HTTP/1.1[0m" 403 -
+172.24.176.1 - - [24/Apr/2026 14:16:31] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 14:16:44] "[31m[1mPOST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1[0m" 417 -
+172.24.176.1 - - [24/Apr/2026 14:17:18] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 14:17:49] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 14:17:49] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 14:49:41] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 14:49:41] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:04:52] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:04:52] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:04:53] "[31m[1mPOST /api/resource/File HTTP/1.1[0m" 417 -
+172.24.176.1 - - [24/Apr/2026 15:18:59] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:18:59] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:18:59] "[31m[1mPOST /api/resource/File HTTP/1.1[0m" 417 -
+172.24.176.1 - - [24/Apr/2026 15:57:46] "GET /api/method/frappe.desk.form.load.getdoctype?doctype=Career%20Inquiry&with_parent=1&cached_timestamp=&_=1777012970312 HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:57:46] "POST /api/method/frappe.desk.listview.get_list_settings HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:57:46] "GET /api/method/frappe.desk.reportview.get_list?fields=["name","filter_name","for_user","filters"]&filters={"reference_doctype":"Career%20Inquiry"}&or_filters=[["for_user","%3D","Administrator"],["for_user","%3D",""]]&order_by=filter_name%20asc&doctype=List%20Filter&limit=20&_=1777012970313 HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:57:46] "POST /api/method/frappe.desk.reportview.get HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 15:57:46] "POST /api/method/frappe.desk.reportview.get_count HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:07:47] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:07:47] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:07:47] "[31m[1mPOST /api/resource/File HTTP/1.1[0m" 417 -
+172.24.176.1 - - [24/Apr/2026 16:11:33] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:11:33] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:11:34] "POST /api/resource/File HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:13:54] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:13:54] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:13:54] "POST /api/resource/File HTTP/1.1" 200 -
+ * Detected change in '/home/hilton/frappe-bench/apps/erpnext/erpnext/setup/doctype/career_inquiry/career_inquiry.py', reloading
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 120, in application
+    response = frappe.api.handle(request)
+  File "apps/frappe/frappe/api/__init__.py", line 52, in handle
+    data = endpoint(**arguments)
+  File "apps/frappe/frappe/api/v1.py", line 40, in handle_rpc_call
+    return frappe.handler.handle()
+  File "apps/frappe/frappe/handler.py", line 53, in handle
+    data = execute_cmd(cmd)
+  File "apps/frappe/frappe/handler.py", line 83, in execute_cmd
+    is_whitelisted(method)
+  File "apps/frappe/frappe/__init__.py", line 876, in is_whitelisted
+    throw(msg, PermissionError, title=_("Method Not Allowed"))
+  File "apps/frappe/frappe/__init__.py", line 615, in throw
+    msgprint(
+  File "apps/frappe/frappe/__init__.py", line 580, in msgprint
+    _raise_exception()
+  File "apps/frappe/frappe/__init__.py", line 531, in _raise_exception
+    raise exc
+frappe.exceptions.PermissionError: <details><summary>You are not permitted to access this resource. Login to access</summary>Function <strong>frappe.auth.get_logged_user</strong> is not whitelisted.</details>
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 120, in application
+    response = frappe.api.handle(request)
+  File "apps/frappe/frappe/api/__init__.py", line 52, in handle
+    data = endpoint(**arguments)
+  File "apps/frappe/frappe/api/v1.py", line 40, in handle_rpc_call
+    return frappe.handler.handle()
+  File "apps/frappe/frappe/handler.py", line 53, in handle
+    data = execute_cmd(cmd)
+  File "apps/frappe/frappe/handler.py", line 86, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "apps/frappe/frappe/__init__.py", line 1760, in call
+    return fn(*args, **newargs)
+  File "apps/frappe/frappe/utils/typing_validations.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "apps/erpnext/erpnext/setup/doctype/career_inquiry/career_inquiry.py", line 39, in submit_career_inquiry
+    doc.insert(ignore_permissions=True)
+  File "apps/frappe/frappe/model/document.py", line 310, in insert
+    self._validate()
+  File "apps/frappe/frappe/model/document.py", line 624, in _validate
+    self._validate_selects()
+  File "apps/frappe/frappe/model/base_document.py", line 913, in _validate_selects
+    frappe.throw(
+  File "apps/frappe/frappe/__init__.py", line 615, in throw
+    msgprint(
+  File "apps/frappe/frappe/__init__.py", line 580, in msgprint
+    _raise_exception()
+  File "apps/frappe/frappe/__init__.py", line 531, in _raise_exception
+    raise exc
+frappe.exceptions.ValidationError:  Role You Are Applying For cannot be "General Application". It should be one of "", "Senior AI/ML Engineer", "Frontend Developer", "Backend Developer", "Full Stack Developer", "DevOps Engineer", "Product Manager", "UI/UX Designer", "Data Scientist", "QA Engineer", "Other"
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 120, in application
+    response = frappe.api.handle(request)
+  File "apps/frappe/frappe/api/__init__.py", line 52, in handle
+    data = endpoint(**arguments)
+  File "apps/frappe/frappe/api/v1.py", line 46, in create_doc
+    return frappe.new_doc(doctype, **data).insert()
+  File "apps/frappe/frappe/model/document.py", line 302, in insert
+    self._validate_links()
+  File "apps/frappe/frappe/model/document.py", line 979, in _validate_links
+    frappe.throw(_("Could not find {0}").format(msg), frappe.LinkValidationError)
+  File "apps/frappe/frappe/__init__.py", line 615, in throw
+    msgprint(
+  File "apps/frappe/frappe/__init__.py", line 580, in msgprint
+    _raise_exception()
+  File "apps/frappe/frappe/__init__.py", line 531, in _raise_exception
+    raise exc
+frappe.exceptions.LinkValidationError: Could not find Attached To DocType: Career Inquiry Application
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 120, in application
+    response = frappe.api.handle(request)
+  File "apps/frappe/frappe/api/__init__.py", line 52, in handle
+    data = endpoint(**arguments)
+  File "apps/frappe/frappe/api/v1.py", line 46, in create_doc
+    return frappe.new_doc(doctype, **data).insert()
+  File "apps/frappe/frappe/model/document.py", line 302, in insert
+    self._validate_links()
+  File "apps/frappe/frappe/model/document.py", line 979, in _validate_links
+    frappe.throw(_("Could not find {0}").format(msg), frappe.LinkValidationError)
+  File "apps/frappe/frappe/__init__.py", line 615, in throw
+    msgprint(
+  File "apps/frappe/frappe/__init__.py", line 580, in msgprint
+    _raise_exception()
+  File "apps/frappe/frappe/__init__.py", line 531, in _raise_exception
+    raise exc
+frappe.exceptions.LinkValidationError: Could not find Attached To DocType: Career Inquiry Application
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 120, in application
+    response = frappe.api.handle(request)
+  File "apps/frappe/frappe/api/__init__.py", line 52, in handle
+    data = endpoint(**arguments)
+  File "apps/frappe/frappe/api/v1.py", line 46, in create_doc
+    return frappe.new_doc(doctype, **data).insert()
+  File "apps/frappe/frappe/model/document.py", line 302, in insert
+    self._validate_links()
+  File "apps/frappe/frappe/model/document.py", line 979, in _validate_links
+    frappe.throw(_("Could not find {0}").format(msg), frappe.LinkValidationError)
+  File "apps/frappe/frappe/__init__.py", line 615, in throw
+    msgprint(
+  File "apps/frappe/frappe/__init__.py", line 580, in msgprint
+    _raise_exception()
+  File "apps/frappe/frappe/__init__.py", line 531, in _raise_exception
+    raise exc
+frappe.exceptions.LinkValidationError: Could not find Attached To DocType: Career Inquiry Application
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 128-242-458
+172.24.176.1 - - [24/Apr/2026 16:29:42] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:29:42] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:29:42] "POST /api/resource/File HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:42:50] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:42:50] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:42:50] "POST /api/resource/File HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:46:18] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:46:31] "GET /api/resource/Career%20Inquiry/CAR-APP-0021 HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:47:35] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:47:35] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:47:35] "POST /api/resource/File HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:52:59] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:52:59] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:52:59] "POST /api/resource/File HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:56:07] "POST /api/method/upload_file HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:56:07] "POST /api/method/erpnext.setup.doctype.career_inquiry.career_inquiry.submit_career_inquiry HTTP/1.1" 200 -
+172.24.176.1 - - [24/Apr/2026 16:56:07] "POST /api/resource/File HTTP/1.1" 200 -

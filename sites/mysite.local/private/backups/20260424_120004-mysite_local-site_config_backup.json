@@ -1,0 +1,9 @@
+{
+ "db_name": "_9aa2b32038f89d2b",
+ "db_password": "1BjGM1LnuqbzisBh",
+ "db_type": "mariadb",
+ "developer_mode": 1,
+ "allow_cors": "*",
+ "cors_headers": "Content-Type,X-Frappe-CSRF-Token,Authorization",
+ "allow_guest_to_upload_files": 1
+}
