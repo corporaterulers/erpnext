@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\": \"careers_header\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>Careers</b></span>\", \"col\": 12}}, {\"id\": \"careers_card\", \"type\": \"card\", \"data\": {\"card_name\": \"Career Inquiries\", \"col\": 4}}]",
+ "content": "[{\"id\": \"careers_header\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>Careers</b></span>\", \"col\": 12}}, {\"id\": \"careers_card\", \"type\": \"card\", \"data\": {\"card_name\": \"Career Inquiries\", \"col\": 4}}, {\"id\": \"onboarding_card\", \"type\": \"card\", \"data\": {\"card_name\": \"Onboarding\", \"col\": 4}}]",
  "creation": "2026-04-22 00:00:00",
  "custom_blocks": [],
  "docstatus": 0,
@@ -9,7 +9,7 @@
  "hide_custom": 0,
  "icon": "hr",
  "idx": 0,
- "is_hidden": 0,
+ "is_hidden": 1,
  "label": "Careers",
  "links": [
   {
@@ -30,15 +30,34 @@
    "link_type": "DocType",
    "onboard": 1,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Onboarding",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Onboarding Template",
+   "link_count": 0,
+   "link_to": "Employee Onboarding Template",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
   }
  ],
  "modified": "2026-04-24 13:05:05.722431",
  "modified_by": "Administrator",
- "module": "HR",
+ "module": "Setup",
  "name": "Careers",
  "number_cards": [],
  "owner": "Administrator",
- "parent_page": "HR",
+ "parent_page": "Frappe CRM",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",

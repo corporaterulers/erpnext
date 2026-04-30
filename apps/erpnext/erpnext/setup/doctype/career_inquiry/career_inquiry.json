@@ -23,7 +23,8 @@
   "sec_break_5",
   "tell_us_about_yourself",
   "sec_break_6",
-  "how_did_you_hear"
+  "how_did_you_hear",
+  "other_source"
  ],
  "fields": [
   {
@@ -126,6 +127,13 @@
    "fieldtype": "Select",
    "label": "How Did You Hear About Us?",
    "options": "\nGoogle Search\nLinkedIn\nSocial Media\nReferral\nConference / Event\nBlog / Article\nOther"
+  },
+  {
+   "depends_on": "eval:doc.how_did_you_hear == 'Other'",
+   "fieldname": "other_source",
+   "fieldtype": "Small Text",
+   "label": "Please specify",
+   "max_length": 250
   }
  ],
  "in_create": 1,

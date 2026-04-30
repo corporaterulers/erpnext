@@ -1,4 +1,5 @@
 frappe
+sbiq
+hrms
 crm
 erpnext
-hrms

@@ -177,6 +177,16 @@
    "options": "\nGoogle Search\nLinkedIn\nSocial Media\nReferral\nConference / Event\nBlog / Article\nOther",
    "reqd": 0,
    "show_in_filter": 0
+  },
+  {
+   "depends_on": "eval:doc.how_did_you_hear == 'Other'",
+   "fieldname": "other_source",
+   "fieldtype": "Small Text",
+   "hidden": 0,
+   "label": "Please specify",
+   "max_length": 250,
+   "reqd": 0,
+   "show_in_filter": 0
   }
  ]
 }

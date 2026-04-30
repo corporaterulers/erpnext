@@ -2,7 +2,6 @@ import frappe
 
 
 def execute():
-	doctypes = ["Career Inquiry"]
-	for doctype in doctypes:
-		if frappe.db.exists("DocType", doctype):
-			frappe.reload_doctype(doctype)
+	frappe.reload_doc("setup", "doctype", "career_inquiry")
+	frappe.reload_doc("setup", "web_form", "career_inquiry")
+	frappe.reload_doc("setup", "workspace", "careers")
