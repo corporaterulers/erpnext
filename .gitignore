@@ -55,3 +55,4 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+apps/erpnext/erpnext/patches/v16_0/*.Identifier
