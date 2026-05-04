@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(bench --site mysite.local mariadb --execute \"SELECT name, label, type, link_to, idx FROM \\\\`tabWorkspace Link\\\\` WHERE parent='Careers' ORDER BY idx;\")"
-    ]
-  }
-}

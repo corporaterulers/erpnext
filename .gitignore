@@ -61,3 +61,8 @@ apps/erpnext/erpnext/patches/v16_0/*.Identifier
 apps/frappe/
 apps/hrms/
 apps/crm/
+.claude/
+
+# Exclude all uploaded site files (broad)
+sites/*/public/files/
+sites/*/private/files/
