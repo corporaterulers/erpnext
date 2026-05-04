@@ -19,7 +19,6 @@
   "col_break_2",
   "resume_link",
   "tell_us_about_yourself",
-  "sec_break_2",
   "how_did_you_hear",
   "other_source"
  ],
@@ -101,10 +100,6 @@
    "fieldtype": "Text",
    "label": "Tell Us About Yourself",
    "reqd": 1
-  },
-  {
-   "fieldname": "sec_break_2",
-   "fieldtype": "Section Break"
   },
   {
    "fieldname": "how_did_you_hear",
