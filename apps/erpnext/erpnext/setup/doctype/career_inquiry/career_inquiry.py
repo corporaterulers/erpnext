@@ -14,7 +14,7 @@ def create_job_applicant(doc):
 			"applicant_name": f"{doc.first_name} {doc.last_name}".strip(),
 			"email_id": doc.email,
 			"phone_number": doc.phone_number,
-			"resume_link": doc.resume_link,
+			"resume_attachment": doc.resume_link,
 			"cover_letter": doc.tell_us_about_yourself,
 			"role_applying_for": doc.role_applying_for,
 			"years_of_experience": doc.years_of_experience,
