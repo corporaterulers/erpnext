@@ -25,8 +25,15 @@
   "employee_referral",
   "column_break_13",
   "applicant_rating",
+  "career_inquiry_section",
+  "role_applying_for",
+  "years_of_experience",
+  "linkedin_profile_url",
+  "col_break_career",
+  "portfolio_site",
+  "how_did_you_hear",
+  "other_source",
   "section_break_6",
-  "notes",
   "cover_letter",
   "resume_attachment",
   "resume_link",
@@ -181,6 +188,49 @@
   {
    "fieldname": "column_break_13",
    "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "career_inquiry_section",
+   "fieldtype": "Section Break",
+   "label": "Career Inquiry Details"
+  },
+  {
+   "fieldname": "role_applying_for",
+   "fieldtype": "Data",
+   "label": "Role Applying For"
+  },
+  {
+   "fieldname": "years_of_experience",
+   "fieldtype": "Data",
+   "label": "Years of Experience"
+  },
+  {
+   "fieldname": "linkedin_profile_url",
+   "fieldtype": "Data",
+   "label": "LinkedIn Profile URL",
+   "options": "URL"
+  },
+  {
+   "fieldname": "col_break_career",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "portfolio_site",
+   "fieldtype": "Data",
+   "label": "Portfolio / Personal Site",
+   "options": "URL"
+  },
+  {
+   "fieldname": "how_did_you_hear",
+   "fieldtype": "Select",
+   "label": "How Did You Hear About Us?",
+   "options": "\nGoogle Search\nLinkedIn\nSocial Media\nReferral\nConference / Event\nBlog / Article\nOther"
+  },
+  {
+   "depends_on": "eval:doc.how_did_you_hear == 'Other'",
+   "fieldname": "other_source",
+   "fieldtype": "Small Text",
+   "label": "Please Specify"
   },
   {
    "fetch_from": "job_title.designation",
