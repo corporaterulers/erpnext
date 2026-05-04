@@ -9,18 +9,21 @@ class CareerInquiry(Document):
 
 def create_job_applicant(doc):
 	try:
-		notes_parts = [f"Role Applying For: {doc.role_applying_for}"]
+		extra_parts = [f"Role Applying For: {doc.role_applying_for}"]
 		if doc.years_of_experience:
-			notes_parts.append(f"Years of Experience: {doc.years_of_experience}")
+			extra_parts.append(f"Years of Experience: {doc.years_of_experience}")
 		if doc.linkedin_profile_url:
-			notes_parts.append(f"LinkedIn: {doc.linkedin_profile_url}")
+			extra_parts.append(f"LinkedIn: {doc.linkedin_profile_url}")
 		if doc.portfolio_site:
-			notes_parts.append(f"Portfolio: {doc.portfolio_site}")
+			extra_parts.append(f"Portfolio: {doc.portfolio_site}")
 		if doc.how_did_you_hear:
 			source_text = doc.how_did_you_hear
 			if doc.other_source:
 				source_text += f" ({doc.other_source})"
-			notes_parts.append(f"How Did You Hear: {source_text}")
+			extra_parts.append(f"How Did You Hear: {source_text}")
+
+		cover_letter_parts = [doc.tell_us_about_yourself or ""]
+		cover_letter_parts.append("\n---\n" + "\n".join(extra_parts))
 
 		applicant = frappe.get_doc({
 			"doctype": "Job Applicant",
@@ -28,11 +31,11 @@ def create_job_applicant(doc):
 			"email_id": doc.email,
 			"phone_number": doc.phone_number,
 			"resume_link": doc.resume_link,
-			"cover_letter": doc.tell_us_about_yourself,
-			"notes": "\n".join(notes_parts),
+			"cover_letter": "\n".join(cover_letter_parts),
 			"status": "Open",
 		})
 		applicant.insert(ignore_permissions=True)
+		frappe.db.commit()
 	except Exception:
 		frappe.log_error(frappe.get_traceback(), "Career Inquiry: Failed to create Job Applicant")
 
